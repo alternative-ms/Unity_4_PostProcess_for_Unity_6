@@ -1,0 +1,2 @@
+As you know, in modern Unity version there is a new PostProcess system, based on profiles and ect. But in Unity 3.x..4.x..5.x you can just add a script to the Camera and get any effect you want, even few same effects in a row.
+Thats why I decided to adopt legacy post process effects into modern Unity version to allow creators make any effects as previously, even together with a brand new Post Process systems.
